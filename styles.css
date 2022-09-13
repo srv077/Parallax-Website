@@ -1,0 +1,49 @@
+#first_page{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-image:url("images/iewek-gnos-mFrqB_Nu9t8-unsplash.jpg") ;
+    background-attachment: fixed;
+}
+#second_page{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-image:url("images/karthik-sreenivas-TXSEzoZdWeA-unsplash.jpg") ;
+    background-attachment: fixed;
+}
+#third_page{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-image:url("images/sies-kranen-WB5MKFqYLPA-unsplash.jpg") ;
+    background-attachment: fixed;
+}
+#fourth_page{
+    height:100vh;
+    width:100%;
+    background-size: cover;
+    background-image:url("images/wolfgang-hasselmann-Jo0YFmHBxw4-unsplash.jpg") ;
+    background-attachment: fixed;
+}
+
+.background{
+    opacity: 0.5;
+}
+#heading{
+    position:absolute;
+    background-color:white;
+    opacity:1.0;
+    justify-content: center;
+    align-items: center;
+    top:50%;
+    text-align: center;
+    width:100%
+}
+body{
+    margin:0px;
+}
+h1{
+    color:black;;
+}
+
